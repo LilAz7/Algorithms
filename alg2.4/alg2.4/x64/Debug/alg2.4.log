@@ -1,0 +1,27 @@
+﻿  Source.cpp
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(376,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(376,3): error C3861: cout: идентификатор не найден
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(385,3): error C3861: cout: идентификатор не найден
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(385,61): error C3861: endl: идентификатор не найден
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(388,3): error C3861: cout: идентификатор не найден
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(388,103): error C3861: endl: идентификатор не найден
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(392,3): error C3861: cout: идентификатор не найден
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(392,104): error C3861: endl: идентификатор не найден
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(385,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(385,61): error C2065: endl: необъявленный идентификатор
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(388,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(388,103): error C2065: endl: необъявленный идентификатор
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(392,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(392,104): error C2065: endl: необъявленный идентификатор
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(400,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(400,3): error C3861: cout: идентификатор не найден
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(407,3): error C3861: cout: идентификатор не найден
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(407,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(415,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(415,3): error C3861: cout: идентификатор не найден
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(423,3): error C3861: cout: идентификатор не найден
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(423,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(430,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(430,3): error C3861: cout: идентификатор не найден
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(439,3): error C3861: cout: идентификатор не найден
+C:\Users\Hi-tech\Documents\codepr\alg2.4\alg2.4\Source.cpp(439,3): error C2065: cout: необъявленный идентификатор
