@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Hi-tech\Documents\codepr\alg3.2\alg3.2\Source.cpp(75,14): error C2039: "merge": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\iostream(19,1): message : см. объявление "std"
+C:\Users\Hi-tech\Documents\codepr\alg3.2\alg3.2\Source.cpp(78,2): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "MaxBinaryHeap<T>"
