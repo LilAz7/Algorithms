@@ -5,10 +5,10 @@ using namespace std;
 
 int main() {
     setlocale(LC_ALL, "Russian");
-    // Текст для шифрования
+    // РўРµРєСЃС‚ РґР»СЏ С€РёС„СЂРѕРІР°РЅРёСЏ
     std::string plaintext = "Hello, mirea";
 
-    // Таблица замены
+    // РўР°Р±Р»РёС†Р° Р·Р°РјРµРЅС‹
     std::map<char, char> substitution_table = {
       {'a', 'z'},
       {'b', 'y'},
@@ -21,7 +21,7 @@ int main() {
       {'z', 'a'}
     };
 
-    // Шифрование текста
+    // РЁРёС„СЂРѕРІР°РЅРёРµ С‚РµРєСЃС‚Р°
     std::string ciphertext = "";
     for (char c : plaintext) {
         if (substitution_table.count(c) > 0) {
@@ -32,8 +32,8 @@ int main() {
         }
     }
 
-    // Вывод зашифрованного текста
-    std::cout << "Зашифрованный текст: " << ciphertext << std::endl;
+    // Р’С‹РІРѕРґ Р·Р°С€РёС„СЂРѕРІР°РЅРЅРѕРіРѕ С‚РµРєСЃС‚Р°
+    std::cout << "Р—Р°С€РёС„СЂРѕРІР°РЅРЅС‹Р№ С‚РµРєСЃС‚: " << ciphertext << std::endl;
 
     return 0;
 }
