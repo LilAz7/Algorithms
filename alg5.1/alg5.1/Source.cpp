@@ -7,10 +7,10 @@ int main() {
     string plaintext;
     int key;
 
-    cout << "Ââåäèòå òåêñò äëÿ øèôğîâàíèÿ: ";
+    cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ñ‚ĞµĞºÑÑ‚ Ğ´Ğ»Ñ ÑˆĞ¸Ñ„Ñ€Ğ¾Ğ²Ğ°Ğ½Ğ¸Ñ: ";
     getline(cin, plaintext);
 
-    cout << "Ââåäèòå êëş÷ (öåëîå ÷èñëî îò 1 äî 25): ";
+    cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ ĞºĞ»ÑÑ‡ (Ñ†ĞµĞ»Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ Ğ¾Ñ‚ 1 Ğ´Ğ¾ 25): ";
     cin >> key;
 
     string ciphertext = plaintext;
@@ -26,7 +26,7 @@ int main() {
         }
     }
 
-    cout << "Çàøèôğîâàííûé òåêñò: " << ciphertext << endl;
+    cout << "Ğ—Ğ°ÑˆĞ¸Ñ„Ñ€Ğ¾Ğ²Ğ°Ğ½Ğ½Ñ‹Ğ¹ Ñ‚ĞµĞºÑÑ‚: " << ciphertext << endl;
 
     return 0;
 }
